@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Quiztopia | Gemischtes Quiz</title>
+  <link rel="stylesheet" type="text/css" href="/Quiztopia/Style/mixed.css">
+  <link rel="stylesheet" href="/Quiztopia/Style/quiz.css">
+  <link rel="shortcut icon" href="/Quiztopia/IMG/Favicon/favicon-32x32.png" type="image/x-icon">
+</head>
+<body>
+  <div class="container">
+    <div id="player-name-container">
+      <div class="logo">
+      <a href="/Quiztopia/Pages/start.html"><img src="/Quiztopia/IMG/Logo/Logo_Dunkel.png" alt=""></a>
+      </div>
+      <div class="image-container">
+        <img class="bild" src="/Quiztopia/IMG/Cardimg/Gemischtes_Quiz.jpg" width="30%">
+        <div class="overlay-text">Gemischtes Quiz</div>
+      </div>
+      <input type="text" id="player-name-input" placeholder="Spielername">
+      <button id="start-quiz-button">Quiz starten</button>
+    </div>
+
+    <div id="questions-container" style="display: none;">
+      <div class="quiz-header">
+        <h1>Gemischtes Quiz</h1>
+        <div id="question"></div>
+      </div>
+      <div id="choices"></div>
+      <div class="progress-bar-container">
+        <div id="progress" class="progress-green"></div>
+      </div>
+      <div id="question-counter"></div>
+    </div>
+
+    <div id="quiz-container"></div>
+    <h2>
+      <a id="scoreboard-link" style="display: none;" href="/Quiztopia/Pages/scoreboard.html">Score anzeigen</a>
+    </h2>
+  </div>
+
+  <script src="mixed.js"></script>
+  <script>
+    // Globale Variable für den Quiz-Status
+    let quizStarted = false;
+  
+    // Fragt den Benutzernamen ab und startet das Quiz
+    function handleStartQuiz() {
+      getPlayerName(); // Benutzernamen abfragen
+      startQuiz();
+      hidePlayerNameContainer(); // Spielername-Div ausblenden
+      showQuizContainer(); // Quiz-Div anzeigen
+      quizStarted = true;
+    }
+  
+    // Event Listener für den Button "Quiz starten"
+    document.getElementById('start-quiz-button').addEventListener('click', function() {
+      if (!quizStarted) {
+        handleStartQuiz();
+      }
+    });
+  </script>
+  <footer class="footer">© 2023 by Andreas Brühl, Jason Krimmel und Sebastian Hufeld</footer>  
+</body>
+</html>

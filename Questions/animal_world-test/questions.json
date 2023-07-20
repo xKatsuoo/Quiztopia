@@ -1,0 +1,328 @@
+[
+    {
+      "question": "Welches ist das größte Landtier?",
+      "choices": ["Elefant", "Giraffe", "Nashorn", "Hippopotamus"],
+      "answer": 0
+    },
+    {
+      "question": "Welches ist das größte Meerestier?",
+      "choices": ["Blauwal", "Pottwal", "Killerwal", "Walhai"],
+      "answer": 0
+    },
+    {
+      "question": "Welches ist das schnellste Landtier?",
+      "choices": ["Gepard", "Antilope", "Gazelle", "Pferd"],
+      "answer": 0
+    },
+    {
+      "question": "Welches ist das größte fliegende Tier?",
+      "choices": ["Albatros", "Kondor", "Fregattvogel", "Pelikan"],
+      "answer": 0
+    },
+    {
+      "question": "Welches Tier kann am längsten ohne Wasser auskommen?",
+      "choices": ["Kamel", "Wüstenfuchs", "Strauß", "Wüstenleguan"],
+      "answer": 0
+    },
+    {
+      "question": "Welches Tier ist für seine langen Migrationen bekannt?",
+      "choices": ["Monarchfalter", "Küstenseeschwalbe", "Gnus", "Rentiere"],
+      "answer": 2
+    },
+    {
+      "question": "Welches Tier hat den längsten Hals?",
+      "choices": ["Giraffe", "Strauß", "Schwan", "Kamel"],
+      "answer": 0
+    },
+    {
+      "question": "Welches ist das größte Gifttier?",
+      "choices": ["Königskobra", "Inlandtaipan", "Giftfrosch", "Seewespe"],
+      "answer": 1
+    },
+    {
+      "question": "Welches Tier hat den größten Gehirnanteil im Verhältnis zur Körpergröße?",
+      "choices": ["Delfin", "Mensch", "Elefant", "Schimpanse"],
+      "answer": 0
+    },
+    {
+      "question": "Welches Tier kann am höchsten springen?",
+      "choices": ["Gepard", "Känguru", "Leopard", "Floh"],
+      "answer": 3
+    },
+    {
+      "question": "Welches Tier hat die meisten Zähne?",
+      "choices": ["Weißer Hai", "Krokodil", "Elefant", "Killerwal"],
+      "answer": 1
+    },
+    {
+      "question": "Welches Tier hat die größte Flügelspannweite?",
+      "choices": ["Kalifornischer Kondor", "Bartgeier", "Riesenfledermaus", "Albatros"],
+      "answer": 0
+    },
+    {
+      "question": "Welches Tier hat den längsten Winterschlaf?",
+      "choices": ["Bär", "Igel", "Fledermaus", "Murmeltier"],
+      "answer": 3
+    },
+    {
+      "question": "Welches Tier hat das beste Gehör?",
+      "choices": ["Fledermaus", "Elefant", "Delfin", "Fuchs"],
+      "answer": 0
+    },
+    {
+      "question": "Welches Tier kann am längsten ohne Nahrung auskommen?",
+      "choices": ["Kamel", "Schlange", "Schildkröte", "Eidechse"],
+      "answer": 0
+    },
+    {
+      "question": "Welches Tier hat den stärksten Biss?",
+      "choices": ["Nilkrokodil", "Weißer Hai", "Afrikanischer Löwe", "Bengalischer Tiger"],
+      "answer": 0
+    },
+    {
+      "question": "Welches Tier hat das längste Leben?",
+      "choices": ["Riesenmuschel", "Galápagos-Riesenschildkröte", "Grönlandwal", "Makrelenhai"],
+      "answer": 1
+    },
+    {
+      "question": "Welches Tier hat den besten Geruchssinn?",
+      "choices": ["Bluthund", "Elefant", "Bär", "Hai"],
+      "answer": 0
+    },
+    {
+      "question": "Welches Tier hat die meisten Farbrezeptoren im Auge?",
+      "choices": ["Mensch", "Schmetterling", "Vogel", "Libelle"],
+      "answer": 2
+    },
+    {
+      "question": "Welches Tier kann am tiefsten tauchen?",
+      "choices": ["Elefantensiegel", "Pottwal", "Kaiserpinguin", "Lederschildkröte"],
+      "answer": 1
+    },
+    {
+      "question": "Welches Tier hat die größte Anzahl an bekannten Unterarten?",
+      "choices": ["Hausratte", "Hausmaus", "Mensch", "Hauskatze"],
+      "answer": 1
+    },
+    {
+      "question": "Welches Tier hat die schnellste Fortpflanzungsrate?",
+      "choices": ["Kaninchen", "Maus", "Elefant", "Hamster"],
+      "answer": 1
+    },
+    {
+      "question": "Welches Tier hat die meisten Beine?",
+      "choices": ["Tausendfüßer", "Spinne", "Hundertfüßer", "Skorpion"],
+      "answer": 0
+    },
+    {
+      "question": "Welches Tier hat die längste Zunge?",
+      "choices": ["Chamäleon", "Giraffe", "Ameisenbär", "Schmetterlingsfisch"],
+      "answer": 0
+    },
+    {
+      "question": "Welches Tier hat das beste Gedächtnis?",
+      "choices": ["Elefant", "Delphin", "Gorilla", "Mensch"],
+      "answer": 3
+    },
+    {
+      "question": "Welches Tier hat den besten Tastsinn?",
+      "choices": ["Elefant", "Fledermaus", "Mensch", "Oktopus"],
+      "answer": 3
+    },
+    {
+      "question": "Welches Tier hat die meisten Muskeln im Verhältnis zur Körpergröße?",
+      "choices": ["Gepard", "Elefant", "Eichhörnchen", "Mensch"],
+      "answer": 2
+    },
+    {
+      "question": "Welches Tier hat die größte Population?",
+      "choices": ["Hausratte", "Mensch", "Fledermaus", "Ameise"],
+      "answer": 3
+    },
+    {
+      "question": "Welches Tier hat den längsten Schwanz?",
+      "choices": ["Pavian", "Rochen", "Seepferdchen", "Giraffe"],
+      "answer": 1
+    },
+    {
+      "question": "Welches Tier hat die meisten Augen?",
+      "choices": ["Spinnen", "Krabben", "Tausendfüßer", "Libellen"],
+      "answer": 0
+    },
+    {
+      "question": "Welches Tier hat die stärkste Säure im Magen?",
+      "choices": ["Hai", "Schlange", "Ameisenbär", "Kondor"],
+      "answer": 2
+    },
+    {
+      "question": "Welches Tier hat die längste Lebensdauer ohne Nahrung?",
+      "choices": ["Eisbär", "Krokodil", "Schlange", "Schildkröte"],
+      "answer": 3
+    },
+    {
+      "question": "Welches Tier kann die größte Distanz pro Tag zurücklegen?",
+      "choices": ["Migrationsvögel", "Geparden", "Wölfe", "Antilopen"],
+      "answer": 0
+    },
+    {
+      "question": "Welches Tier hat die stärkste Säure im Magen?",
+      "choices": ["Mensch", "Elefant", "Giraffe", "Kuh"],
+      "answer": 3
+    },
+    {
+      "question": "Welches Tier kann die höchsten Töne hören?",
+      "choices": ["Elefant", "Delfin", "Mensch", "Fledermaus"],
+      "answer": 3
+    },
+    {
+      "question": "Welches Tier kann die größte Distanz pro Tag schwimmen?",
+      "choices": ["Delfin", "Wal", "Pinguin", "Thunfisch"],
+      "answer": 1
+    },
+    {
+      "question": "Welches Tier hat die meisten Muskeln im Maul?",
+      "choices": ["Nilkrokodil", "Löwe", "Tiger", "Krokodil"],
+      "answer": 0
+    },
+    {
+      "question": "Welches Tier hat die besten Kletterfähigkeiten?",
+      "choices": ["Affe", "Eidechse", "Eichhörnchen", "Gorilla"],
+      "answer": 2
+    },
+    {
+      "question": "Welches Tier hat die meisten giftigen Arten?",
+      "choices": ["Kobra", "Skorpion", "Kegelschnecke", "Käfer"],
+      "answer": 3
+    },
+    {
+      "question": "Welches Tier kann die höchsten Töne erzeugen?",
+      "choices": ["Grille", "Fledermaus", "Wal", "Delphin"],
+      "answer": 0
+    },
+    {
+      "question": "Welches Tier hat den stärksten Giftbiss?",
+      "choices": ["Spinne", "Schlangen", "Skorpion", "Wespe"],
+      "answer": 1
+    },
+    {
+      "question": "Welches Tier hat die längsten Hörner?",
+      "choices": ["Gazelle", "Büffel", "Antilope", "Nashorn"],
+      "answer": 3
+    },
+    {
+      "question": "Welches Tier hat die besten Schwimmfähigkeiten?",
+      "choices": ["Delfin", "Krokodil", "Otter", "Seelöwe"],
+      "answer": 0
+    },
+    {
+      "question": "Welches Tier hat die längste Lebensdauer?",
+      "choices": ["Galápagos-Riesenschildkröte", "Elefant", "Mensch", "Blaualgen"],
+      "answer": 0
+    },
+    {
+      "question": "Ist der Koala ein Beuteltier?",
+      "choices": ["Ja", "Nein"],
+      "answer": 0
+    },
+    {
+      "question": "Gehören Wale zur Gruppe der Säugetiere?",
+      "choices": ["Ja", "Nein"],
+      "answer": 0
+    },
+    {
+      "question": "Können Pinguine fliegen?",
+      "choices": ["Ja", "Nein"],
+      "answer": 1
+    },
+    {
+      "question": "Ist der Tiger ein Fleischfresser?",
+      "choices": ["Ja", "Nein"],
+      "answer": 0
+    },
+    {
+      "question": "Sind Eulen nachtaktive Tiere?",
+      "choices": ["Ja", "Nein"],
+      "answer": 0
+    },
+    {
+      "question": "Sind Schlangen giftig?",
+      "choices": ["Ja", "Nein"],
+      "answer": 1
+    },
+    {
+      "question": "Sind Pandas Pflanzenfresser?",
+      "choices": ["Ja", "Nein"],
+      "answer": 0
+    },
+    {
+      "question": "Können Giraffen schwimmen?",
+      "choices": ["Ja", "Nein"],
+      "answer": 1
+    },
+    {
+      "question": "Sind Bienen wichtig für die Bestäubung von Pflanzen?",
+      "choices": ["Ja", "Nein"],
+      "answer": 0
+    },
+    {
+      "question": "Sind Gorillas fleischfressende Tiere?",
+      "choices": ["Ja", "Nein"],
+      "answer": 1
+    },
+    {
+      "question": "Können Kängurus rückwärts springen?",
+      "choices": ["Ja", "Nein"],
+      "answer": 1
+    },
+    {
+      "question": "Sind Fledermäuse die einzigen fliegenden Säugetiere?",
+      "choices": ["Ja", "Nein"],
+      "answer": 0
+    },
+    {
+      "question": "Sind Krokodile Reptilien?",
+      "choices": ["Ja", "Nein"],
+      "answer": 0
+    },
+    {
+      "question": "Sind Wölfe Rudeltiere?",
+      "choices": ["Ja", "Nein"],
+      "answer": 0
+    },
+    {
+      "question": "Sind Pferde Pflanzenfresser?",
+      "choices": ["Ja", "Nein"],
+      "answer": 0
+    },
+    {
+      "question": "Sind Haie Fische?",
+      "choices": ["Ja", "Nein"],
+      "answer": 0
+    },
+    {
+      "question": "Sind Eichhörnchen Nagetiere?",
+      "choices": ["Ja", "Nein"],
+      "answer": 0
+    },
+    {
+      "question": "Sind Kamele hauptsächlich in Wüstengebieten zu finden?",
+      "choices": ["Ja", "Nein"],
+      "answer": 0
+    },
+    {
+      "question": "Sind Vögel Wirbeltiere?",
+      "choices": ["Ja", "Nein"],
+      "answer": 0
+    },
+    {
+      "question": "Sind Löwen soziale Tiere, die in Gruppen leben?",
+      "choices": ["Ja", "Nein"],
+      "answer": 0
+    },
+    {
+      "question": "Sind Papageien gute Imitatoren von menschlicher Sprache?",
+      "choices": ["Ja", "Nein"],
+      "answer": 0
+    }
+  ]
+  

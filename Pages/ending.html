@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Quiz | Ende</title>
+  <meta name="author" content="<Author-Name>">
+  <meta name="keywords" content="<Keywords>">
+  <meta http-equiv="refresh" content="15; URL=https://www.google.de">
+  <link rel="stylesheet" href="/Quiztopia/Style/ending.css">
+</head>
+<body>
+  <div class="container">
+    <div class="logo">
+      <a href="/Quiztopia/Pages/start.html"><img src="/Quiztopia/IMG/Logo/Logo_Dunkel.png" alt=""></a>
+    </div>
+    <h2>Vielen Dank, dass du unser Quiz benutzt hast. Du wirst in 15 Sekunden automatisch zu Google weitergeleitet.</h2>
+    <div id="content">
+      <div id="timer"></div>
+    </div>
+  </div>
+  
+  <script>
+    var timeLeft = 15;
+    var elem = document.getElementById('timer');
+    
+    var timerId = setInterval(countdown, 1000);
+    
+    function countdown() {
+      if (timeLeft == -1) {
+        clearTimeout(timerId);
+        doSomething();
+      } else {
+        elem.innerHTML = 'Weiterleitung in ' + timeLeft;
+        timeLeft--;
+      }
+    }
+    
+    function doSomething() {
+      window.location.href = "https://www.google.de";
+    }
+  </script>
+
+  <footer class="footer">© 2023 by Andreas Brühl, Jason Krimmel und Sebastian Hufeld</footer>  
+</body>
+</html>

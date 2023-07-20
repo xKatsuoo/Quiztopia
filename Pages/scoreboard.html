@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Quiztopia | Scoreboard</title>
+  <link rel="stylesheet" href="/Quiztopia/Style/scoreboard.css">
+  <link rel="shortcut icon" href="/Quiztopia/IMG/Favicon/favicon-32x32.png" type="image/x-icon">
+</head>
+<body>
+  <div class="logo">
+    <a href="/Quiztopia/Pages/start.html"><img src="/Quiztopia/IMG/Logo/Logo_Dunkel.png" alt=""></a>
+  </div>
+  <h1>Scoreboard</h1>
+
+  <div id="highscore-container">
+    <table id="highscore-table">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Kategorie</th>
+          <th>Zeit</th>
+        </tr>
+      </thead>
+      <tbody id="highscore-body">
+        <!-- Hier werden die Highscore-Einträge angezeigt -->
+      </tbody>
+    </table>
+  </div>
+
+  <button id="delete-highscores">Highscores löschen</button>
+
+<div class="button-container">
+  <a href="/Quiztopia/Pages/start.html">
+    <button id="new-quiz-button">Neues Quiz</button>
+  </a>
+
+  <button id="repeat-button" onclick="window.history.back()">Wiederholen</button>
+
+  <a href="/Quiztopia/Pages/ending.html">
+    <button id="ending-quiz">Quiz beenden</button>
+  </a>
+</div>
+
+  <script>
+    // Funktion zum Laden und Anzeigen der Highscore-Daten
+    function loadHighscoreData() {
+      const highscoreData = JSON.parse(localStorage.getItem('highscoreData'));
+
+      if (highscoreData && highscoreData.length > 0) {
+        const highscoreTable = document.getElementById('highscore-body');
+
+        // Sortiere die Einträge nach der Zeit
+        highscoreData.sort((a, b) => a.time - b.time);
+
+        // Begrenze die Anzahl der Einträge auf maximal fünf
+        const limitedHighscoreData = highscoreData.slice(0, 5);
+
+        highscoreTable.innerHTML = '';
+
+        limitedHighscoreData.forEach(entry => {
+          const row = document.createElement('tr');
+          const nameCell = document.createElement('td');
+          const categoryCell = document.createElement('td');
+          const timeCell = document.createElement('td');
+
+          nameCell.textContent = entry.name;
+          categoryCell.textContent = entry.category;
+          timeCell.textContent = `${Math.floor(entry.time / 60)} Minuten ${entry.time % 60} Sekunden`;
+
+          row.appendChild(nameCell);
+          row.appendChild(categoryCell);
+          row.appendChild(timeCell);
+
+          highscoreTable.appendChild(row);
+        });
+      } else {
+        const highscoreTable = document.getElementById('highscore-body');
+        highscoreTable.innerHTML = '<tr><td colspan="3">Es sind keine Highscore-Daten vorhanden.</td></tr>';
+      }
+    }
+
+    // Funktion zum Löschen der Highscore-Daten
+    function deleteHighscores() {
+      localStorage.removeItem('highscoreData');
+      loadHighscoreData(); // Aktualisiere die Anzeige der Highscore-Daten
+    }
+
+    // Laden der Highscore-Daten und Anzeigen beim Laden der Seite
+    loadHighscoreData();
+
+    // Event Listener für den Klick auf den Löschen-Button
+    document.getElementById('delete-highscores').addEventListener('click', deleteHighscores);
+  </script>
+  <footer class="footer">© 2023 by Andreas Brühl, Jason Krimmel und Sebastian Hufeld</footer>  
+</body>
+</html>

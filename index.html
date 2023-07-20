@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Quiztopia</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Condiment&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/Quiztopia/Style/loader.css">
+  <link rel="shortcut icon" href="/Quiztopia/IMG/Favicon/favicon-32x32.png" type="image/x-icon">
+  <meta http-equiv="refresh" content="10; URL=/Quiztopia/Pages/start.html">
+</head>
+<body>
+  <div id="wrapper">
+    <div id="loader" class="container">
+      <div class="liquid"></div>
+      <div class="liquid"></div>
+      <div class="liquid"></div>
+      <div class="liquid"></div>
+    </div>
+  </div>
+
+  <!-- <div id="content" class="hidden">
+    <!-- Hier den gewünschten Inhalt einfügen -->
+    <!-- <h1>Willkommen auf der Seite!</h1>
+    <p>Dies ist der Inhalt der Seite nach dem Loader.</p> -->
+  <!-- </div> -->
+
+  <svg>
+    <filter id="gooey">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="10" />
+      <feColorMatrix values="
+        1 0 0 0 0
+        0 1 0 0 0
+        0 0 1 0 0
+        0 0 0 20 -10
+      " />
+    </filter>
+  </svg>
+
+  <script src="/Quiztopia/Scripte/loader.js"></script>
+</body>
+</html>

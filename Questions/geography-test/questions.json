@@ -1,0 +1,202 @@
+[
+  {
+    "question": "In welchem Jahr wurde die Berliner Mauer erbaut?",
+    "choices": ["1949", "1961", "1989", "1991"],
+    "answer": 1
+  },
+  {
+    "question": "Wie viele Kontinente gibt es auf der Erde?",
+    "choices": ["4", "5", "6", "7"],
+    "answer": 3
+  },
+  {
+    "question": "Welcher Fluss fließt durch Paris?",
+    "choices": ["Rhein", "Donau", "Seine", "Themse"],
+    "answer": 2
+  },
+  {
+    "question": "Ist der Mount Everest der höchste Berg der Welt?",
+    "choices": ["Ja", "Nein"],
+    "answer": 0
+  },
+  {
+    "question": "Welches Land ist das größte der Welt?",
+    "choices": ["Russland", "China", "USA", "Brasilien"],
+    "answer": 0
+  },
+  {
+    "question": "Ist der Nordpol ein Kontinent?",
+    "choices": ["Ja", "Nein"],
+    "answer": 1
+  },
+  {
+    "question": "Wo liegt die Sahara?",
+    "choices": ["Afrika", "Asien", "Nordamerika", "Europa"],
+    "answer": 0
+  },
+  {
+    "question": "Welche Stadt ist die Hauptstadt von Australien?",
+    "choices": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "answer": 2
+  },
+  {
+    "question": "Ist die Antarktis ein Kontinent?",
+    "choices": ["Ja", "Nein"],
+    "answer": 0
+  },
+  {
+    "question": "Welches ist das kleinste Land der Welt?",
+    "choices": ["Vatikanstadt", "Monaco", "Malta", "Nauru"],
+    "answer": 0
+  },
+  {
+    "question": "Befindet sich der Äquator in der Mitte der Erde?",
+    "choices": ["Ja", "Nein"],
+    "answer": 0
+  },
+  {
+    "question": "Welches Land grenzt nicht an Deutschland?",
+    "choices": ["Frankreich", "Schweiz", "Dänemark", "Tschechien"],
+    "answer": 3
+  },
+  {
+    "question": "Welcher Ozean liegt zwischen den USA und Europa?",
+    "choices": ["Atlantischer Ozean", "Pazifischer Ozean", "Indischer Ozean", "Arktischer Ozean"],
+    "answer": 0
+  },
+  {
+    "question": "Ist Island ein Teil der Europäischen Union?",
+    "choices": ["Ja", "Nein"],
+    "answer": 1
+  },
+  {
+    "question": "Welcher Kontinent liegt vollständig auf der südlichen Hemisphäre?",
+    "choices": ["Afrika", "Europa", "Asien", "Australien"],
+    "answer": 3
+  },
+  {
+    "question": "Ist der Amazonas der längste Fluss der Welt?",
+    "choices": ["Ja", "Nein"],
+    "answer": 1
+  },
+  {
+    "question": "Welches Land grenzt an den Persischen Golf?",
+    "choices": ["Ägypten", "Saudi-Arabien", "Iran", "Pakistan"],
+    "answer": 2
+  },
+  {
+    "question": "Gehört Grönland zu Dänemark?",
+    "choices": ["Ja", "Nein"],
+    "answer": 0
+  },
+  {
+    "question": "Welche Stadt liegt nicht in Afrika?",
+    "choices": ["Kairo", "Nairobi", "Rio de Janeiro", "Kapstadt"],
+    "answer": 2
+  },
+  {
+    "question": "Ist der Pazifische Ozean der größte Ozean der Welt?",
+    "choices": ["Ja", "Nein"],
+    "answer": 0
+  },
+  {
+    "question": "Wo liegt die Wüste Gobi?",
+    "choices": ["Afrika", "Asien", "Nordamerika", "Europa"],
+    "answer": 1
+  },
+  {
+    "question": "Welche ist die größte Insel der Welt?",
+    "choices": ["Grönland", "Neuguinea", "Borneo", "Madagaskar"],
+    "answer": 0
+  },
+  {
+    "question": "Ist der Nil der längste Fluss Afrikas?",
+    "choices": ["Ja", "Nein"],
+    "answer": 0
+  },
+  {
+    "question": "Welcher ist der höchste Berg Europas?",
+    "choices": ["Mont Blanc", "Mount Elbrus", "Zugspitze", "Matterhorn"],
+    "answer": 1
+  },
+  {
+    "question": "Gibt es Wüsten in Kanada?",
+    "choices": ["Ja", "Nein"],
+    "answer": 1
+  },
+  {
+    "question": "Welches Land grenzt nicht an China?",
+    "choices": ["Russland", "Indien", "Japan", "Pakistan"],
+    "answer": 2
+  },
+  {
+    "question": "Ist der Ärmelkanal eine natürliche Wasserstraße?",
+    "choices": ["Ja", "Nein"],
+    "answer": 0
+  },
+  {
+    "question": "Welcher Fluss fließt durch London?",
+    "choices": ["Rhein", "Tiber", "Seine", "Themse"],
+    "answer": 3
+  },
+  {
+    "question": "Welches Land liegt nicht auf der Arabischen Halbinsel?",
+    "choices": ["Saudi-Arabien", "Jemen", "Kuwait", "Irak"],
+    "answer": 3
+  },
+  {
+    "question": "Ist der Kilimandscharo der höchste Berg Afrikas?",
+    "choices": ["Ja", "Nein"],
+    "answer": 0
+  },
+  {
+    "question": "Welches ist das kleinste Land in Südamerika?",
+    "choices": ["Brasilien", "Ecuador", "Uruguay", "Kolumbien"],
+    "answer": 2
+  },
+  {
+    "question": "Gehört die Kanarischen Inseln zu Spanien?",
+    "choices": ["Ja", "Nein"],
+    "answer": 0
+  },
+  {
+    "question": "Welcher Ozean liegt östlich von Afrika?",
+    "choices": ["Atlantischer Ozean", "Pazifischer Ozean", "Indischer Ozean", "Arktischer Ozean"],
+    "answer": 2
+  },
+  {
+    "question": "Wo liegt das Goldene Tor in San Francisco?",
+    "choices": ["USA", "Mexiko", "Kanada", "Kuba"],
+    "answer": 0
+  },
+  {
+    "question": "Ist der Golfstrom eine Meeresströmung?",
+    "choices": ["Ja", "Nein"],
+    "answer": 0
+  },
+  {
+    "question": "Welches Land grenzt nicht an Italien?",
+    "choices": ["Frankreich", "Österreich", "Griechenland", "Spanien"],
+    "answer": 3
+  },
+  {
+    "question": "Welcher Fluss fließt durch Rom?",
+    "choices": ["Rhein", "Tiber", "Seine", "Themse"],
+    "answer": 1
+  },
+  {
+    "question": "Liegt die Türkei teilweise in Europa?",
+    "choices": ["Ja", "Nein"],
+    "answer": 0
+  },
+  {
+    "question": "Welches Land grenzt nicht an Russland?",
+    "choices": ["China", "Ukraine", "Iran", "Estland"],
+    "answer": 2
+  },
+  {
+    "question": "Ist der Grand Canyon ein Naturwunder?",
+    "choices": ["Ja", "Nein"],
+    "answer": 0
+  }
+]

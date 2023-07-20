@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Wann wurde die Berliner Mauer erbaut?",
+    "choices": ["1949", "1961", "1989", "1991"],
+    "answer": 1
+  },
+  {
+    "question": "Wer war der erste Präsident der USA?",
+    "choices": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John F. Kennedy"],
+    "answer": 0
+  },
+  {
+    "question": "Wann begann der Erste Weltkrieg?",
+    "choices": ["1914", "1918", "1939", "1945"],
+    "answer": 0
+  },
+  {
+    "question": "Ist Deutschland ein souveräner Staat?",
+    "choices": ["Ja", "Nein"],
+    "answer": 0
+  },
+  {
+    "question": "In welchem Jahr landeten die ersten Menschen auf dem Mond?",
+    "choices": ["1969", "1972", "1981", "1990"],
+    "answer": 0
+  },
+  {
+    "question": "Wer war der berühmte Forscher, der die Relativitätstheorie entwickelte?",
+    "choices": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Charles Darwin"],
+    "answer": 1
+  },
+  {
+    "question": "Wann wurde die Magna Carta unterzeichnet?",
+    "choices": ["1215", "1492", "1776", "1812"],
+    "answer": 0
+  },
+  {
+    "question": "Wer war der Anführer der kommunistischen Revolution in Russland?",
+    "choices": ["Vladimir Lenin", "Joseph Stalin", "Leon Trotsky", "Mikhail Gorbachev"],
+    "answer": 0
+  },
+  {
+    "question": "Wann endete der Zweite Weltkrieg in Europa?",
+    "choices": ["1943", "1945", "1947", "1950"],
+    "answer": 1
+  },
+  {
+    "question": "Ist die Mona Lisa ein Gemälde von Leonardo da Vinci?",
+    "choices": ["Ja", "Nein"],
+    "answer": 0
+  },
+  {
+    "question": "Welches Jahr markierte den Beginn der Französischen Revolution?",
+    "choices": ["1776", "1789", "1804", "1832"],
+    "answer": 1
+  },
+  {
+    "question": "Wer war der erste Mensch, der den Mount Everest bestieg?",
+    "choices": ["Tenzing Norgay", "Edmund Hillary", "Reinhold Messner", "Felix Baumgartner"],
+    "answer": 1
+  },
+  {
+    "question": "Wann wurde die Unabhängigkeit der Vereinigten Staaten von Amerika erklärt?",
+    "choices": ["1776", "1789", "1804", "1832"],
+    "answer": 0
+  },
+  {
+    "question": "Wer schrieb das Buch '1984'?",
+    "choices": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Ernest Hemingway"],
+    "answer": 0
+  },
+  {
+    "question": "Wann fand die Oktoberrevolution in Russland statt?",
+    "choices": ["1905", "1917", "1923", "1930"],
+    "answer": 1
+  },
+  {
+    "question": "Wann wurde die Amerikanische Revolution ausgelöst?",
+    "choices": ["1765", "1776", "1783", "1791"],
+    "answer": 0
+  },
+  {
+    "question": "Wer war der römische Kaiser während des Baus des Kolosseums?",
+    "choices": ["Julius Caesar", "Augustus", "Nero", "Constantin"],
+    "answer": 2
+  },
+  {
+    "question": "Wann wurde die Bastille gestürmt, ein entscheidender Moment der Französischen Revolution?",
+    "choices": ["1789", "1792", "1798", "1803"],
+    "answer": 0
+  },
+  {
+    "question": "Wer war der erste Kaiser des Römischen Reiches?",
+    "choices": ["Augustus", "Nero", "Constantin", "Trajan"],
+    "answer": 0
+  },
+  {
+    "question": "Wann endete der Hundertjährige Krieg zwischen England und Frankreich?",
+    "choices": ["1328", "1415", "1453", "1485"],
+    "answer": 2
+  },
+  {
+    "question": "Wer war der erste Präsident der Russischen Föderation nach dem Zusammenbruch der Sowjetunion?",
+    "choices": ["Boris Jelzin", "Wladimir Putin", "Michail Gorbatschow", "Dmitri Medwedew"],
+    "answer": 0
+  },
+  {
+    "question": "Wann wurde die Unabhängigkeit Indiens aus der britischen Kolonialherrschaft erreicht?",
+    "choices": ["1921", "1937", "1947", "1955"],
+    "answer": 2
+  },
+  {
+    "question": "Wer war der erste Mensch, der die Umsegelung der Erde vollendete?",
+    "choices": ["Ferdinand Magellan", "James Cook", "Francis Drake", "Christopher Kolumbus"],
+    "answer": 0
+  },
+  {
+    "question": "Wann wurde die Magna Carta zum ersten Mal durch König Johann von England besiegelt?",
+    "choices": ["1212", "1225", "1234", "1248"],
+    "answer": 1
+  },
+  {
+    "question": "Wer war der erste Präsident der Volksrepublik China?",
+    "choices": ["Mao Zedong", "Sun Yat-sen", "Chiang Kai-shek", "Deng Xiaoping"],
+    "answer": 1
+  },
+  {
+    "question": "Wann begann der Dreißigjährige Krieg?",
+    "choices": ["1517", "1618", "1648", "1689"],
+    "answer": 1
+  },
+  {
+    "question": "Wer war der erste Mensch, der eine erfolgreiche Herztransplantation durchführte?",
+    "choices": ["Christiaan Barnard", "Joseph Lister", "Alexander Fleming", "Werner Forssmann"],
+    "answer": 0
+  },
+  {
+    "question": "Wann wurde der Eiffelturm in Paris erbaut?",
+    "choices": ["1885", "1893", "1901", "1910"],
+    "answer": 1
+  },
+  {
+    "question": "Wer war der erste westliche Entdecker, der die Seeroute nach Indien entdeckte?",
+    "choices": ["Vasco da Gama", "Christopher Kolumbus", "Ferdinand Magellan", "James Cook"],
+    "answer": 0
+  },
+  {
+    "question": "Wann wurde die Oper 'Die Zauberflöte' von Wolfgang Amadeus Mozart uraufgeführt?",
+    "choices": ["1762", "1784", "1801", "1820"],
+    "answer": 1
+  },
+  {
+    "question": "Wer war der erste Kaiser des Heiligen Römischen Reiches?",
+    "choices": ["Karl der Große", "Friedrich Barbarossa", "Otto der Große", "Karl V."],
+    "answer": 2
+  },
+  {
+    "question": "Wann wurde die Berliner Mauer abgerissen?",
+    "choices": ["1985", "1989", "1991", "1993"],
+    "answer": 1
+  },
+  {
+    "question": "Wer war der erste Mensch, der den Äquator überquerte?",
+    "choices": ["Ferdinand Magellan", "James Cook", "Francis Drake", "Alexander von Humboldt"],
+    "answer": 3
+  },
+  {
+    "question": "Wann fand die Schlacht von Waterloo statt?",
+    "choices": ["1756", "1781", "1815", "1830"],
+    "answer": 2
+  },
+  {
+    "question": "Wer war der erste Präsident der Republik Südafrika nach dem Ende der Apartheid?",
+    "choices": ["Nelson Mandela", "F. W. de Klerk", "Thabo Mbeki", "Cyril Ramaphosa"],
+    "answer": 1
+  },
+  {
+    "question": "Wann wurde die Unabhängigkeit Kanadas vom Vereinigten Königreich erreicht?",
+    "choices": ["1763", "1791", "1867", "1901"],
+    "answer": 2
+  },
+  {
+    "question": "Wer war der erste europäische Seefahrer, der den Seeweg nach Indien entdeckte?",
+    "choices": ["Vasco da Gama", "Christopher Kolumbus", "Ferdinand Magellan", "Francis Drake"],
+    "answer": 0
+  },
+  {
+    "question": "Wann fand die Schlacht von Stalingrad statt?",
+    "choices": ["1939", "1941", "1943", "1945"],
+    "answer": 2
+  },
+  {
+    "question": "Wer war der erste Präsident der Vereinigten Staaten von Amerika?",
+    "choices": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John F. Kennedy"],
+    "answer": 0
+  },
+  {
+    "question": "Wann wurde die Südafrikanische Union gegründet, die Vorläuferin des heutigen Südafrikas?",
+    "choices": ["1652", "1776", "1910", "1948"],
+    "answer": 2
+  }
+]

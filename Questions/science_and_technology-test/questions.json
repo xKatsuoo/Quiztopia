@@ -1,0 +1,530 @@
+[{
+"question": "Ist Wasser eine chemische Verbindung aus Wasserstoff und Sauerstoff?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Wie viele Planeten gibt es in unserem Sonnensystem?",
+"choices": ["7", "8", "9", "10"],
+"answer": 1
+},
+
+{
+"question": "Ist die Schwerkraft eine fundamentale Kraft in der Physik?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist das Periodensystem eine Zusammenstellung aller bekannten chemischen Elemente?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Relativitätstheorie eine physikalische Theorie von Albert Einstein?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist das Higgs-Boson ein elementares Teilchen in der Teilchenphysik?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die DNS der Träger der genetischen Information?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Photosynthese ein Prozess, bei dem Pflanzen Lichtenergie in chemische Energie umwandeln?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Krebstherapie eine Behandlung von Krebserkrankungen?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist das Mikroskop ein Instrument zur Vergrößerung von kleinen Objekten?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Dampfmaschine eine Erfindung von James Watt?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist der Laser ein Gerät, das Lichtstrahlen verstärkt und fokussiert?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Elektrizität eine Form von Energie?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Schallgeschwindigkeit in der Luft höher als im Wasser?",
+"choices": ["Ja", "Nein"],
+"answer": 1
+},
+
+{
+"question": "Ist die Kernfusion ein Prozess, bei dem Atomkerne miteinander verschmelzen?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist der Computer ein elektronisches Gerät, das Daten verarbeitet?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Robotik ein Bereich der Technik, der sich mit der Entwicklung von Robotern beschäftigt?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Astronomie die Wissenschaft, die sich mit der Erforschung des Weltalls beschäftigt?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Nanotechnologie die Manipulation von Materie auf atomarer und molekularer Ebene?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Geologie die Wissenschaft, die sich mit der Erforschung der Erde und ihrer Struktur beschäftigt?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Gentechnik eine Technologie, die die Manipulation von Genen ermöglicht?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Raumfahrt die Erforschung des Weltraums und die Reise von Raumfahrzeugen?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Künstliche Intelligenz ein Bereich der Informatik, der sich mit der Entwicklung intelligenter Maschinen befasst?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Quantenphysik ein Teilgebiet der Physik, das sich mit den Gesetzen der Quantenmechanik beschäftigt?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist das GPS ein globales Navigationssatellitensystem?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Gravitationskraft die Kraft, die zwei Massen aufeinander ausüben?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Optik ein Bereich der Physik, der sich mit Licht und dessen Eigenschaften beschäftigt?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Chemie eine Naturwissenschaft, die sich mit den Eigenschaften, Strukturen und Veränderungen von Materie beschäftigt?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist das Teleskop ein Instrument zur Beobachtung ferner Objekte im Weltraum?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Biologie die Wissenschaft, die sich mit der Erforschung von Lebewesen befasst?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Meteorologie die Wissenschaft, die sich mit dem Wetter und der Atmosphäre befasst?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Elektronik ein Bereich der Physik und Technik, der sich mit elektronischen Schaltkreisen und Geräten beschäftigt?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Genetik ein Bereich der Biologie, der sich mit den Erbanlagen und deren Vererbung beschäftigt?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Physik eine Naturwissenschaft, die sich mit den Grundlagen des Universums beschäftigt?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Medizin die Wissenschaft und Praxis der Behandlung von Krankheiten?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist das Rad eine der wichtigsten Erfindungen der Menschheit?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist das Internet ein globales Netzwerk von Computern, das Informationen miteinander austauscht?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist das Mobiltelefon ein tragbares Kommunikationsgerät?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist das Flugzeug ein Luftfahrzeug, das schwerer als Luft ist?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Elektromobilität der Einsatz von Elektrofahrzeugen für den Transport?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Robotertechnik der Einsatz von Robotern in der Industrie?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Kernenergie die Nutzung der Energie aus Kernreaktionen?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Astronautik die Wissenschaft und Technik der Raumfahrt?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Mikrobiologie die Wissenschaft, die sich mit Mikroorganismen befasst?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Gentechnologie die Anwendung von genetischen Techniken in der Biotechnologie?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Materialwissenschaft die Erforschung und Entwicklung neuer Materialien?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Astrophysik die Anwendung der Physik auf das Verständnis des Universums?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Ist die Neurologie die medizinische Fachrichtung, die sich mit Erkrankungen des Nervensystems beschäftigt?",
+"choices": ["Ja", "Nein"],
+"answer": 0
+},
+
+{
+"question": "Welche Einheit wird zur Messung von elektrischem Widerstand verwendet?",
+"choices": ["Volt", "Ampere", "Ohm", "Watt"],
+"answer": 2
+},
+
+{
+"question": "Welches Element hat die Ordnungszahl 1 im Periodensystem?",
+"choices": ["Sauerstoff", "Wasserstoff", "Stickstoff", "Kohlenstoff"],
+"answer": 1
+},
+
+{
+"question": "Welches Teilchen ist negativ geladen?",
+"choices": ["Proton", "Elektron", "Neutron", "Photon"],
+"answer": 1
+},
+
+{
+"question": "Welches ist die schnellste Schallgeschwindigkeit?",
+"choices": ["Luft", "Wasser", "Metall", "Vakuum"],
+"answer": 3
+},
+
+{
+"question": "Welche Art von Energie hat ein sich drehendes Windrad?",
+"choices": ["Thermische Energie", "Kinetische Energie", "Potentielle Energie", "Elektrische Energie"],
+"answer": 1
+},
+
+{
+"question": "Welches ist das leichteste chemische Element?",
+"choices": ["Wasserstoff", "Sauerstoff", "Stickstoff", "Kohlenstoff"],
+"answer": 0
+},
+
+{
+"question": "Welches Teilchen ist neutral geladen?",
+"choices": ["Proton", "Elektron", "Neutron", "Photon"],
+"answer": 2
+},
+
+{
+"question": "Welche Einheit wird zur Messung der Helligkeit einer Lichtquelle verwendet?",
+"choices": ["Candela", "Watt", "Lumen", "Volt"],
+"answer": 2
+},
+
+{
+"question": "Welche Art von Energie hat ein aufgeladenes Batteriepack?",
+"choices": ["Thermische Energie", "Kinetische Energie", "Potentielle Energie", "Chemische Energie"],
+"answer": 3
+},
+
+{
+"question": "Welcher Teil des Atoms enthält die meisten Massen?",
+"choices": ["Proton", "Elektron", "Neutron", "Photon"],
+"answer": 2
+},
+
+{
+"question": "Welche Einheit wird zur Messung der elektrischen Spannung verwendet?",
+"choices": ["Volt", "Ampere", "Ohm", "Watt"],
+"answer": 0
+},
+
+{
+"question": "Welches Element hat die Ordnungszahl 6 im Periodensystem?",
+"choices": ["Sauerstoff", "Wasserstoff", "Stickstoff", "Kohlenstoff"],
+"answer": 3
+},
+
+{
+"question": "Welches Teilchen ist positiv geladen?",
+"choices": ["Proton", "Elektron", "Neutron", "Photon"],
+"answer": 0
+},
+
+{
+"question": "Welche Einheit wird zur Messung der elektrischen Stromstärke verwendet?",
+"choices": ["Volt", "Ampere", "Ohm", "Watt"],
+"answer": 1
+},
+
+{
+"question": "Welches ist die höchste Temperaturskala?",
+"choices": ["Celsius", "Kelvin", "Fahrenheit", "Rankine"],
+"answer": 1
+},
+
+{
+"question": "Welche Art von Energie hat eine gespannte Feder?",
+"choices": ["Thermische Energie", "Kinetische Energie", "Potentielle Energie", "Elektrische Energie"],
+"answer": 2
+},
+
+{
+"question": "Welches ist das schwerste chemische Element?",
+"choices": ["Wasserstoff", "Sauerstoff", "Stickstoff", "Plutonium"],
+"answer": 3
+},
+
+{
+"question": "Welches Teilchen ist ein Lichtteilchen?",
+"choices": ["Proton", "Elektron", "Neutron", "Photon"],
+"answer": 3
+},
+
+{
+"question": "Welche Einheit wird zur Messung der Leistung verwendet?",
+"choices": ["Volt", "Ampere", "Ohm", "Watt"],
+"answer": 3
+},
+
+{
+"question": "Welches Element hat die Ordnungszahl 8 im Periodensystem?",
+"choices": ["Sauerstoff", "Wasserstoff", "Stickstoff", "Kohlenstoff"],
+"answer": 0
+},
+
+{
+  "question": "Welches ist das kleinste Teilchen, aus dem alle anderen Teilchen aufgebaut sind?",
+  "choices": ["Elektron", "Proton", "Neutron", "Quark"],
+  "answer": 3
+  },
+  
+  {
+  "question": "Welche Art von Energie hat ein chemischer Sprengstoff?",
+  "choices": ["Thermische Energie", "Kinetische Energie", "Potentielle Energie", "Chemische Energie"],
+  "answer": 3
+  },
+  
+  {
+  "question": "Welche Einheit wird zur Messung der Frequenz verwendet?",
+  "choices": ["Meter", "Kilogramm", "Hertz", "Pascal"],
+  "answer": 2
+  },
+  
+  {
+  "question": "Welches Element hat die Ordnungszahl 79 im Periodensystem?",
+  "choices": ["Silber", "Gold", "Kupfer", "Platin"],
+  "answer": 1
+  },
+  
+  {
+  "question": "Welches Teilchen trägt eine negative elektrische Ladung?",
+  "choices": ["Neutron", "Proton", "Elektron", "Myon"],
+  "answer": 2
+  },
+  
+  {
+  "question": "Welche Einheit wird zur Messung der Geschwindigkeit verwendet?",
+  "choices": ["Meter", "Kilogramm", "Sekunde", "Pascal"],
+  "answer": 2
+  },
+  
+  {
+  "question": "Welche Art von Energie hat ein geladenes Kondensator?",
+  "choices": ["Thermische Energie", "Kinetische Energie", "Potentielle Energie", "Elektrische Energie"],
+  "answer": 3
+  },
+  
+  {
+  "question": "Welches ist das häufigste chemische Element in der Erdatmosphäre?",
+  "choices": ["Stickstoff", "Sauerstoff", "Wasserstoff", "Kohlenstoff"],
+  "answer": 0
+  },
+  
+  {
+  "question": "Welches Teilchen hat keine elektrische Ladung?",
+  "choices": ["Neutron", "Proton", "Elektron", "Positron"],
+  "answer": 0
+  },
+  
+  {
+  "question": "Welche Einheit wird zur Messung des Drucks verwendet?",
+  "choices": ["Meter", "Kilogramm", "Sekunde", "Pascal"],
+  "answer": 3
+  },
+  
+  {
+  "question": "Welches Element hat die Ordnungszahl 47 im Periodensystem?",
+  "choices": ["Silber", "Gold", "Kupfer", "Platin"],
+  "answer": 2
+  },
+  
+  {
+  "question": "Welches Teilchen trägt eine positive elektrische Ladung?",
+  "choices": ["Neutron", "Proton", "Elektron", "Muon"],
+  "answer": 1
+  },
+  
+  {
+  "question": "Welche Einheit wird zur Messung der Masse verwendet?",
+  "choices": ["Meter", "Kilogramm", "Sekunde", "Pascal"],
+  "answer": 1
+  },
+  
+  {
+  "question": "Welche Art von Energie hat eine brennende Kerze?",
+  "choices": ["Thermische Energie", "Kinetische Energie", "Potentielle Energie", "Chemische Energie"],
+  "answer": 0
+  },
+  
+  {
+  "question": "Welches ist das zweithäufigste chemische Element in der Erdatmosphäre?",
+  "choices": ["Stickstoff", "Sauerstoff", "Wasserstoff", "Kohlenstoff"],
+  "answer": 1
+  },
+  
+  {
+  "question": "Welches Teilchen hat eine geringere Masse als ein Elektron?",
+  "choices": ["Proton", "Neutron", "Myon", "Positron"],
+  "answer": 2
+  },
+  
+  {
+  "question": "Welche Einheit wird zur Messung der elektrischen Ladung verwendet?",
+  "choices": ["Meter", "Kilogramm", "Sekunde", "Coulomb"],
+  "answer": 3
+  },
+  
+  {
+  "question": "Welches Element hat die Ordnungszahl 29 im Periodensystem?",
+  "choices": ["Silber", "Gold", "Kupfer", "Platin"],
+  "answer": 2
+  },
+  
+  {
+  "question": "Welches Teilchen trägt die kleinste Masse?",
+  "choices": ["Neutron", "Proton", "Elektron", "Positron"],
+  "answer": 2
+  },
+  
+  {
+  "question": "Welche Einheit wird zur Messung der elektrischen Ladung pro Zeiteinheit verwendet?",
+  "choices": ["Volt", "Ampere", "Ohm", "Coulomb"],
+  "answer": 1
+  }
+  
+  ]
+  
